@@ -1,0 +1,17 @@
+@media screen and (max-width: 1390px) {
+  .videoDetail__container{
+    display: flex;
+    flex-direction: column;
+  }
+}
+
+.suggest{
+overflow: hidden;
+height: 850px;
+padding-top: 100px;
+margin-right: 50px;
+position: absolute;
+top: 0;
+right: 0;
+overflow-y: scroll;
+}
